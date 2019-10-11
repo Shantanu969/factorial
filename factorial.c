@@ -8,3 +8,4 @@ int main()
     for(i=2;i<n;i++)
         prod=prod*i;
     printf("factorial %d",prod);
+}
